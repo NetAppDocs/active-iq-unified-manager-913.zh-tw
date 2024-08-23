@@ -606,7 +606,7 @@ Volume
 
 
  a| 
-磁碟區延遲毫秒/作業警告臨界值已超出（ocumVolume Latency警告）
+磁碟區延遲警告臨界值已突破（ ocumVolume LatencyWarning ）
  a| 
 風險
  a| 
