@@ -2397,7 +2397,6 @@
   <block id="93466d9eb58624930e18825b21acf727" category="paragraph">磁碟區IOPS警告臨界值已超出（ocumVolume IopsWarningTM）</block>
   <block id="0ce68cff51513fd5015a7e5baebf364b" category="paragraph">磁碟區MB/s重大臨界值已超出（ocumVolume Mbps突 發事件）</block>
   <block id="57054f612a3875306ae6c54a133d0def" category="paragraph">Volume MB/s（磁碟區MB/s）警告臨界值已超出（ocumVolume MbpsWarning）</block>
-  <block id="401362af35dafd33f0c2763123f597e4" category="paragraph">磁碟區延遲毫秒/作業臨界臨界值已超出（ocumVolume Latency事件）</block>
   <block id="587510eab9e3e6e14d384d9e397d3639" category="paragraph">磁碟區快取遺失率臨界臨界值已超出（ocumVolume CacheMissRatio意外）</block>
   <block id="9d2a11c7b493c88a4e8247c4ca0afa11" category="paragraph">磁碟區快取遺失比率警告臨界值已超出（ocumVolume CacheMsirioWarningTM）</block>
   <block id="102f5583715be822b9358a021ddeaf31" category="paragraph">磁碟區延遲和IOPS臨界臨界值已超出（ocumVolume Latency IopsIncident）</block>
@@ -12031,4 +12030,5 @@
   <block id="77f4c829a32a8fd20c25a5f9a89a4cba" category="paragraph">儲存 VM NFS 服務中斷（ ocumEvtVserverNfsServiceStatusDown ）</block>
   <block id="e9686e752e3e1702e7ee8d1247e9c592" category="paragraph">儲存 VM 已停止（ ocumEvtVserverDown ）</block>
   <block id="41c588540e5418dc49ed54117bd1d484" category="paragraph">磁碟區延遲警告臨界值已突破（ ocumVolume LatencyWarning ）</block>
+  <block id="16fca8959952fb5be3bdfc77f00821e0" category="paragraph">磁碟區延遲嚴重臨界臨界臨界值已違反（ ocumVolume LatencyIncident ）</block>
 </blocks>
