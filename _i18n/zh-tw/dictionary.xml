@@ -11089,7 +11089,6 @@
   <block id="357a35aedd0c37deb3a881df778a9bb4" category="list-text">按一下 * 還原 * 。</block>
   <block id="58c0234305a387b4aa60babbbd858295" category="paragraph">還原程序隨即開始。在後端建立工作以完成還原程序。</block>
   <block id="aa2724776cabef1aaa6642e924be93b0" category="list-text">若要檢視工作進度、請從左側導覽窗格瀏覽至*保護&gt;工作*、從工作清單中檢視還原工作的狀態。</block>
-  <block id="f19eba4a48c0d8762f03ea93717fbfea" category="paragraph">如果Cloud Volumes ONTAP 在發生NDMP錯誤的情況下、還原作業在還原HA叢集之間失敗、您可能需要在目的地叢集中新增明確的AWS路由、以便目的地能夠與來源系統的叢集管理LIF通訊。您可以使用BlueXP執行此組態步驟。</block>
   <block id="da824e2ac7cbba7766b2892dafabcfae" category="summary">如果工作完成時間過長、發生過多錯誤或不再需要、您可以使用「工作」頁面來中止工作。只有在工作狀態和類型允許時、您才能中止工作。您可以中止任何執行中的工作。</block>
   <block id="1c12c5d8cbc396b002ed9535e6114aa2" category="doc">正在中止工作</block>
   <block id="2f0eec6ab9cc9e91d12e272bb672a463" category="list-text">從工作清單中選取一個工作、然後按一下*中止*。</block>
@@ -12031,4 +12030,5 @@
   <block id="e9686e752e3e1702e7ee8d1247e9c592" category="paragraph">儲存 VM 已停止（ ocumEvtVserverDown ）</block>
   <block id="41c588540e5418dc49ed54117bd1d484" category="paragraph">磁碟區延遲警告臨界值已突破（ ocumVolume LatencyWarning ）</block>
   <block id="16fca8959952fb5be3bdfc77f00821e0" category="paragraph">磁碟區延遲嚴重臨界臨界臨界值已違反（ ocumVolume LatencyIncident ）</block>
+  <block id="323f966c65a63cb769e4f899cb19451f" category="paragraph">如果Cloud Volumes ONTAP HA 叢集之間的還原操作因 NDMP 錯誤而失敗，則可能需要在目標叢集中新增明確的 AWS 路由，以便目標可以與來源系統的叢集管理 LIF 進行通訊。您可以使用NetApp控制台執行此設定步驟。</block>
 </blocks>
