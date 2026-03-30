@@ -5881,8 +5881,6 @@
   <block id="51e889e4677e95ad89242db90b1c3b99" category="summary">Performance Explorer頁面會顯示叢集中每個物件效能的詳細資訊。此頁面提供所有叢集物件效能的詳細檢視、可讓您選取及比較不同時間段內特定物件的效能資料。</block>
   <block id="5cb974e9036c6bd20866629b0626aaa8" category="doc">使用Performance Explorer頁面監控效能</block>
   <block id="343fcd5f0a204b31a7e5d54ad00917b4" category="paragraph">您也可以評估所有物件的整體效能、並以並排格式比較物件效能資料。</block>
-  <block id="91d9102f2b20d2487525cb47bf7d79a5" category="summary">適用於《The》、《AIQUM》文件、《UM》文件的文件Active IQ Unified Manager</block>
-  <block id="4a58c6ba2ac7cf0f2cd001d223b14e50" category="doc">資訊文件Active IQ Unified Manager</block>
   <block id="db4dc978147de771ff14431392ca6695" category="summary">您可以從「報告排程」頁面管理報告排程。您可以檢視、修改或刪除現有的排程。</block>
   <block id="e8c8fa6ef846e534a502d6a32e2135c0" category="doc">管理報告排程</block>
   <block id="31e569e0b327798225c8ad508231c75f" category="paragraph">您無法從「報告排程」頁面排程新報告。您只能從物件詳細目錄頁面新增排程報告。</block>
@@ -12031,4 +12029,6 @@
   <block id="41c588540e5418dc49ed54117bd1d484" category="paragraph">磁碟區延遲警告臨界值已突破（ ocumVolume LatencyWarning ）</block>
   <block id="16fca8959952fb5be3bdfc77f00821e0" category="paragraph">磁碟區延遲嚴重臨界臨界臨界值已違反（ ocumVolume LatencyIncident ）</block>
   <block id="323f966c65a63cb769e4f899cb19451f" category="paragraph">如果Cloud Volumes ONTAP HA 叢集之間的還原操作因 NDMP 錯誤而失敗，則可能需要在目標叢集中新增明確的 AWS 路由，以便目標可以與來源系統的叢集管理 LIF 進行通訊。您可以使用NetApp控制台執行此設定步驟。</block>
+  <block id="601bd9ca04dd14b95c529c358a4d32e5" category="sidebar">Active IQ Unified Manager 文檔</block>
+  <block id="0dd1de1695b4d51ee336c5594c679796" category="sidebar">Active IQ Unified Manager（Unified Manager，以前稱為 OnCommand Unified Manager）可讓您透過單一介面監控和管理 ONTAP 儲存系統的運作狀況和效能。本文檔庫包含 9.13 版本的資訊。Active IQ Unified Manager（Unified Manager，以前稱為 OnCommand Unified Manager）可讓您透過單一介面監控和管理 ONTAP 儲存系統的運作狀況和效能。本文檔庫包含 9.13 版本的資訊。</block>
 </blocks>
