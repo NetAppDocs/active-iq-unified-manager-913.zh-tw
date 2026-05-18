@@ -33,7 +33,7 @@ summary: 如果您需要增加Unified Manager資料庫的磁碟空間量、可�
  a| 
 請依照Microsoft主題中的步驟進行：
 
-https://technet.microsoft.com/en-us/library/cc771473(v=ws.11).aspx["擴充基本Volume"]
+https://technet.microsoft.com/en-us/library/cc771473(v=ws.11).aspx["擴充基本Volume"^]
 
 
 
@@ -42,7 +42,7 @@ https://technet.microsoft.com/en-us/library/cc771473(v=ws.11).aspx["擴充基本
  a| 
 請依照Microsoft主題中的步驟進行：
 
-https://msdn.microsoft.com/en-us/library/dd163551.aspx["新增硬碟機"]
+https://msdn.microsoft.com/en-us/library/dd163551.aspx["新增硬碟機"^]
 
 
 
@@ -51,7 +51,7 @@ https://msdn.microsoft.com/en-us/library/dd163551.aspx["新增硬碟機"]
  a| 
 請遵循VMware主題中的步驟：
 
-https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1004071["增加磁碟分割區的大小"]
+https://knowledge.broadcom.com/external/article/323136/increasing-the-size-of-a-virtual-disk-pa.html["增加磁碟分割區的大小"^]
 
 |===
 

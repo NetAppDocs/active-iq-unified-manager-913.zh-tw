@@ -19,7 +19,7 @@ summary: 您可以設定OnCommand Workflow Automation 穩定連線、讓它能�
 +
 [NOTE]
 ====
-WFA 5.1隨附「WFA套件以管理叢集Data ONTAP 式的功能」、因此您不需要從NetAppStorage Automation Store下載此套件、然後依照過去的需求、將其個別安裝到WFA伺服器上。    https://automationstore.netapp.com/pack-list.shtml["WFA套件、用於管理ONTAP 功能"]
+WFA 5.1 中包含了「`用於管理 Clustered Data ONTAP 的 WFA pack`」，因此無需像過去那樣從 NetAppStorage Automation Store 下載此套件並將其單獨安裝到 WFA 伺服器上。 https://mysupport.netapp.com/site/products/all/details/ocwfa/downloads-tab["WFA 下載"^]
 
 ====
 * 您必須擁有在Unified Manager中建立的資料庫使用者名稱、才能支援WFA和Unified Manager連線。

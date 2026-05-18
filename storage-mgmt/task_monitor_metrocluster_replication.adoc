@@ -29,7 +29,7 @@ Unified Manager會使用系統健全狀況警示來監控MetroCluster 元件的�
 * *保護*>*關係**關係：MetroCluster 參考*檢視
 
 
-如需相關資訊、請參閱 link:../storage-mgmt/task_monitor_metrocluster_configurations.html#monitor-connectivity-issues-in-metrocluster-over-ip["監控MetroCluster IP上的連接問題"]。
+如需相關資訊，請參閱link:../storage-mgmt/task_monitor_metrocluster_configurations.html#monitor-connectivity-issues-in-metrocluster-over-ip-configuration["監控MetroCluster IP上的連接問題"]。
 
 
 
