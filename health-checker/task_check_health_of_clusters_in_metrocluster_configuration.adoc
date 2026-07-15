@@ -22,6 +22,7 @@ summary: 您可以使用Unified Manager來檢查叢集及其元件的運作健�
 
 
 
+[[determining-cluster-health-in-metrocluster-over-fc-configuration]]
 == 判斷MetroCluster 叢集健全狀況的功能
 
 請遵循下列步驟、以MetroCluster 透過功能不全的FC組態來判斷叢集健全狀況。
@@ -60,6 +61,7 @@ image::../media/opm_um_mcc_replication_tab_png.gif[Unified Manager MetroCluster 
 
 
 
+[[determining-cluster-health-in-metrocluster-over-ip-configuration]]
 == 判斷MetroCluster 叢集健全狀況的透過IP進行設定
 
 請依照下列步驟、以MetroCluster 透過IP位址進行的功能組態來判斷叢集健全狀況。

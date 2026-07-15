@@ -18,6 +18,7 @@ summary: 如果您計畫在NAS或SAN裝置上掛載/opp/netapp或/opp/NetApp/dat
 
 
 
+[[configuring-the-selinux-context-when-optnetappdata-is-mounted]]
 == 在下列情況下設定SELinux內容 `/opt/netapp/data` 已掛載
 
 如果您已掛載 `/opt/netapp/data` 在您的系統中、SELinux設定為 `Enforcing`、請確定的SELinux內容類型 `/opt/netapp/data` 設為 `mysqld_db_t`，這是資料庫檔案位置的預設內容元素。
@@ -67,6 +68,7 @@ drwxr-xr-x. mysql root unconfined_u:object_r:mysqld_db_t:s0 /opt/netapp/data/
 ----
 
 
+[[configuring-the-selinux-context-when-optnetapp-is-mounted-and-optnetappdata-is-also-mounted-separately]]
 == 在下列情況下設定SELinux內容 `/opt/netapp` 已掛載、和 `/opt/netapp/data/` 也需個別安裝
 
 在此案例中、您應該先設定的內容 `/opt/netapp/data/` 如前一節所述。設定正確的內容之後 `/opt/netapp/data/`，確保父目錄 `/opt/netapp` 未將SELinux內容設為 `file_t`。
@@ -126,6 +128,7 @@ drwxr-xr-x. mysql root unconfined_u:object_r:usr_t:s0 /opt/netapp
 ----
 
 
+[[configuring-the-selinux-context-when-optnetapp-is-mounted-and-optnetappdata-is-not-mounted-separately]]
 == 在下列情況下設定SELinux內容 `/opt/netapp` 已掛載、和 `/opt/netapp/data/` 並非單獨安裝
 
 如果您已掛載  `/opt/netapp` 在您的系統中、SELinux設定為 `Enforcing`、請確定的SELinux內容類型 `/opt/netapp` 設為 `mysqld_db_t`，這是資料庫檔案位置的預設內容元素。

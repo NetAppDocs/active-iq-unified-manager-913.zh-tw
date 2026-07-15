@@ -15,6 +15,7 @@ summary: 事件API可讓您擷取資料中心內受監控叢集所產生的事�
 
 
 
+[[viewing-and-modifying-events]]
 == 檢視及修改事件
 
 Unified Manager會接收ONTAP 在以功能為基礎上產生的事件、以供Unified Manager監控及管理的叢集使用。使用這些API、您可以檢視為叢集產生的事件、並加以解析和更新。
@@ -54,6 +55,7 @@ Unified Manager會接收ONTAP 在以功能為基礎上產生的事件、以供Un
 |===
 
 
+[[managing-alerts]]
 == 管理警示
 
 系統會自動持續產生事件。Unified Manager只會在事件符合特定篩選條件時產生警示。您可以選取要產生警示的事件。使用 `/management-server/alerts` API、您可以設定警示、在發生特定嚴重性類型的特定事件或事件時自動傳送通知。
@@ -105,6 +107,7 @@ NOTE: 選取資源以新增警示時、請注意選取叢集做為資源並不�
 
 
 
+[[managing-scripts]]
 == 管理指令碼
 
 使用 `/management-server/scripts` API、您也可以將警示與觸發警示時執行的指令碼建立關聯。

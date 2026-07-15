@@ -2793,7 +2793,6 @@
   <block id="29c4d087728ce94ddf83b473dec84df3" category="paragraph">如需啟用平台事件的詳細資訊、請參閱 <block ref="8658b0fde93c687ddd323db3f722b419" category="inline-link-macro-rx"></block>。
 如需上傳規則檔案的詳細資訊、請參閱 <block ref="b01374e7e4b241354108fd5f79d4fe7d" category="inline-link-macro-rx"></block>。</block>
   <block id="9b2dd5f36ee111b85cbdd29e104e3e55" category="inline-link">NetApp Active IQ</block>
-  <block id="9d704a09e3781ec3b4883efbf66a03bc" category="paragraph">NetApp Active IQ 解決方案是一項雲端服務、提供預測性分析和主動式支援、以最佳化整個NetApp混合雲的儲存系統作業。請參閱<block ref="598c2869fc03de80441fdb1c505b1b08" category="inline-link-rx"></block> 以取得更多資訊。</block>
   <block id="6d34b6635b8c2c9537def73af4863626" category="summary">inode事件會在inode已滿或幾乎已滿時提供資訊、以便您監控潛在問題。事件會依影響區域分組、包括事件和陷阱名稱、影響層級、來源類型和嚴重性。</block>
   <block id="fc25dd6aa0918d39b8b3e623f46087bb" category="doc">inode事件</block>
   <block id="31a5557266babf72ff34662c506a54f8" category="paragraph">Inodes幾乎已滿（ocumEvtInodesAlmostFull）</block>
@@ -12003,8 +12002,6 @@
   <block id="a5c178ca0adb1a0269f3bd998293dd38" category="paragraph">如需詳細建議與解決方案、請參閱<block ref="736160f7960b3abe2152eecfe71d1435" category="inline-link-rx"></block> （ TR-4569 ）。</block>
   <block id="672333e5623d0406e27edefd4a600c08" category="paragraph">如需詳細資訊、請參閱法規遵循類別和的主題<block ref="736160f7960b3abe2152eecfe71d1435" category="inline-link-rx"></block> 。</block>
   <block id="20dbca6ffc2afb63243f7244b8d18e68" category="paragraph">如需安全建議、請參閱<block ref="736160f7960b3abe2152eecfe71d1435" category="inline-link-rx"></block></block>
-  <block id="ee26087a8b7ec790988603a3298c45f3" category="paragraph"><block ref="ee26087a8b7ec790988603a3298c45f3" category="inline-link-rx"></block></block>
-  <block id="b1ef1e646481ec8adc66cc5d2b2018ba" category="paragraph">此外、在安裝Unified Manager的第二個執行個體之前、Unified Manager單一執行個體可監控的節點數量也有限制。如需更多資訊、請參閱 <block ref="30a299cd9b89fb73ae0b956f3afc43ad" category="inline-link-macro-rx"></block>。</block>
   <block id="06c70b026e4d10bfcd7be2ebfa770d1c" category="paragraph"><block ref="06c70b026e4d10bfcd7be2ebfa770d1c" category="inline-link-rx"></block></block>
   <block id="796f4a9be8e525f7e4d64c24bac529c9" category="paragraph"><block ref="796f4a9be8e525f7e4d64c24bac529c9" category="inline-link-rx"></block></block>
   <block id="03d53e406aee01a758a051ceaf737e76" category="paragraph">法規遵循以<block ref="736160f7960b3abe2152eecfe71d1435" category="inline-link-rx"></block>為基礎。按一下面板頂端的向右箭頭、即可在「安全性」頁面上檢視所有叢集的安全性詳細資料。如需相關資訊，請參閱 <block ref="c1debbda1f6c52f8ae88dec67250c58d" category="inline-link-macro-rx"></block>。</block>
@@ -12028,4 +12025,7 @@
   <block id="2923533b9f166644f807ccd4cdd652f4" category="paragraph">您也可以從 vSphere 使用 VMware 的 *Restart Guest* 選項來重新啟動虛擬機器。請參閱<block ref="a33f828e317a613e852412bb653667c4" category="inline-link-rx"></block></block>
   <block id="beaebf17f78286bd5f1e620cf360cf26" category="admonition">需要 Oracle 帳戶才能下載該檔案。如果您沒有 Oracle 帳戶，請造訪 <block ref="55cce93bb9914d623967628ae7efe815" category="inline-link-macro-rx"></block> 頁面建立一個。</block>
   <block id="b17c7eb3d307c287fd5300da706cdc62" category="paragraph">如需相關資訊，請參閱<block ref="60444ca73da53841cba391c890082cfa" category="inline-link-macro-rx"></block>。</block>
+  <block id="2adbe8bdce2f61c208adbcdcc37e0d1e" category="paragraph">NetApp Active IQ 是一項基於雲端的服務，可提供預測分析和主動支援，以最佳化 NetApp 混合雲環境中的儲存系統運作。請參閱<block ref="0e9077c60daec97818e84f64654ad149" category="inline-link-rx"></block>以取得更多資訊。</block>
+  <block id="34d3c2d39d6d85670998be5649271fee" category="paragraph"><block ref="34d3c2d39d6d85670998be5649271fee" category="inline-link-rx"></block></block>
+  <block id="44147a2c9ef6251f322e3e18dbdf97ed" category="paragraph">此外，單一 Unified Manager 實例可監控的節點數量有限，超過此限制後，您需要安裝第二個 Unified Manager 實例。如需詳細資訊，請參閱 <block ref="2c5cc47a014185f968ab45db0b0eacd1" category="inline-link-macro-rx"></block>。</block>
 </blocks>
